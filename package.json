@@ -2,7 +2,7 @@
 	"author": "guberni",
 	"name": "tellki-mssql-availability-monitor",
 	"description": "Tellki MSSQL availability monitor",
-	"version": "0.0.1",
+	"version": "0.0.3",
 	"keywords": ["tellki","monitor","mssql","availability","real time"],
 	"homepage": "www.tellki.com",
 	"repository" : { 
